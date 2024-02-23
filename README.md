@@ -1,1 +1,1 @@
-# POSE-ESTIMATION
+Bu kod, MediaPipe'ın sağladığı pose çözümünü kullanarak bir video akışında insan vücut pozlarını bulur ve işaretler. Bu, vücut pozunu izlemek, analiz etmek veya belirli pozisyonlara tepki vermek gibi uygulamalarda kullanılabilir. Video ismi yazan yere izlemek istediğiniz videonun ismini yazmanız lazım.
